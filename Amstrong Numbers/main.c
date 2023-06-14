@@ -1,3 +1,5 @@
+Write the code for checking Amstromg numbers? 
+    
 #include <stdio.h>
 #include<math.h>
 void main()
