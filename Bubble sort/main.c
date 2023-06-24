@@ -1,3 +1,5 @@
+Write a C program to read an array from user and arrange it in ascending order using bubble sort?
+    
 #include <stdio.h>
 void main()
 {
