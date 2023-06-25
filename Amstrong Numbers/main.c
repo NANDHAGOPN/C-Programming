@@ -1,4 +1,4 @@
-Write the code for checking Amstromg numbers? 
+Write a C program to check whether the number is an Amstrong or not(any no. of digits)?
     
 #include <stdio.h>
 #include<math.h>
